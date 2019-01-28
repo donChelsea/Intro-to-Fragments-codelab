@@ -675,7 +675,7 @@ id end_padder
 id expand_activities_button
 id expanded_menu
 id forever
-id fragment
+id fragment_container
 id fragment_header
 id home
 id homeAsUp
@@ -700,6 +700,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id open_button
 id packed
 id parent
 id parentPanel
@@ -709,6 +710,8 @@ id radio
 id radio_button_no
 id radio_button_yes
 id radio_group
+id rating_bar
+id rating_textview
 id right_icon
 id right_side
 id screen
@@ -850,6 +853,7 @@ string article2
 string close
 string exception_message
 string hello_blank_fragment
+string like_the_song
 string no_message
 string no_string
 string open
